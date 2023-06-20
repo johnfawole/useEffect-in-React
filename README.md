@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## useState
+
+In this project, I added the useState hook; incrementing and decrementing the number seamlessly.
+
 ## Available Scripts
 
 In the project directory, you can run:
